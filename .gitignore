@@ -1,0 +1,39 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.webp
+
+# Python cache
+__pycache__/
+*.pyc
+# Images
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.PNG
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.webp
+
+# Large model and dataset files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
+# Python
+__pycache__/
+.venv/

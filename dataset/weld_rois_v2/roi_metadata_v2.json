@@ -1,0 +1,2815 @@
+{
+  "items": [
+    {
+      "source_path": "/workspace/rotate_data/01_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/01_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        112.15595245361328,
+        609.335693359375,
+        3996.80517578125,
+        1705.7103271484375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        554,
+        4032,
+        1760
+      ],
+      "score": 0.9778673648834229
+    },
+    {
+      "source_path": "/workspace/rotate_data/01_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/01_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        48.84476089477539,
+        971.8724975585938,
+        4004.821533203125,
+        2074.010986328125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        916,
+        4032,
+        2129
+      ],
+      "score": 0.9967432618141174
+    },
+    {
+      "source_path": "/workspace/rotate_data/02_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/02_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        62.08441925048828,
+        950.7593994140625,
+        3985.39404296875,
+        1738.36572265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        911,
+        4032,
+        1777
+      ],
+      "score": 0.9972997307777405
+    },
+    {
+      "source_path": "/workspace/rotate_data/02_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/02_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        171.90640258789062,
+        1152.422607421875,
+        4032.0,
+        2195.205078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1100,
+        4032,
+        2247
+      ],
+      "score": 0.996674656867981
+    },
+    {
+      "source_path": "/workspace/rotate_data/03_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/03_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1158.1917724609375,
+        3983.140380859375,
+        1950.405029296875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1118,
+        4032,
+        1990
+      ],
+      "score": 0.9822417497634888
+    },
+    {
+      "source_path": "/workspace/rotate_data/03_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/03_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        59.177467346191406,
+        1035.1046142578125,
+        3999.0556640625,
+        1855.4564208984375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        994,
+        4032,
+        1896
+      ],
+      "score": 0.9990369081497192
+    },
+    {
+      "source_path": "/workspace/rotate_data/04_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/04_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1075.7193603515625,
+        3920.030029296875,
+        1937.5224609375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1032,
+        4032,
+        1980
+      ],
+      "score": 0.8651565313339233
+    },
+    {
+      "source_path": "/workspace/rotate_data/04_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/04_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        18.228944778442383,
+        1158.4840087890625,
+        3980.36181640625,
+        2095.832763671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1111,
+        4032,
+        2142
+      ],
+      "score": 0.9986566305160522
+    },
+    {
+      "source_path": "/workspace/rotate_data/05_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/05_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        34.06251525878906,
+        1025.99853515625,
+        3928.100341796875,
+        1785.9566650390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        988,
+        4032,
+        1823
+      ],
+      "score": 0.9862914681434631
+    },
+    {
+      "source_path": "/workspace/rotate_data/05_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/05_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        898.489501953125,
+        3981.619384765625,
+        2054.04150390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        840,
+        4032,
+        2111
+      ],
+      "score": 0.9973204731941223
+    },
+    {
+      "source_path": "/workspace/rotate_data/06_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/06_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        10.352328300476074,
+        1237.860595703125,
+        4032.0,
+        2060.2900390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1196,
+        4032,
+        2101
+      ],
+      "score": 0.9953247308731079
+    },
+    {
+      "source_path": "/workspace/rotate_data/06_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/06_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        35.86296844482422,
+        993.497802734375,
+        3954.6728515625,
+        2092.3642578125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        938,
+        4032,
+        2147
+      ],
+      "score": 0.9973837733268738
+    },
+    {
+      "source_path": "/workspace/rotate_data/07_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/07_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1113.761474609375,
+        3983.63671875,
+        1943.965576171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1072,
+        4032,
+        1985
+      ],
+      "score": 0.9121386408805847
+    },
+    {
+      "source_path": "/workspace/rotate_data/07_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/07_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        162.52206420898438,
+        1076.6756591796875,
+        4018.1337890625,
+        2315.781005859375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1014,
+        4032,
+        2377
+      ],
+      "score": 0.9953204989433289
+    },
+    {
+      "source_path": "/workspace/rotate_data/08_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/08_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        33.49160385131836,
+        1313.646240234375,
+        4032.0,
+        2090.1826171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1274,
+        4032,
+        2129
+      ],
+      "score": 0.9845601320266724
+    },
+    {
+      "source_path": "/workspace/rotate_data/08_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/08_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        22.28856658935547,
+        862.59375,
+        4032.0,
+        2056.507568359375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        802,
+        4032,
+        2116
+      ],
+      "score": 0.9970546960830688
+    },
+    {
+      "source_path": "/workspace/rotate_data/09_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/09_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        53.021888732910156,
+        996.6936645507812,
+        3996.0927734375,
+        1828.3695068359375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        955,
+        4032,
+        1869
+      ],
+      "score": 0.9763644337654114
+    },
+    {
+      "source_path": "/workspace/rotate_data/09_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/09_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        38.566307067871094,
+        1015.4208374023438,
+        3970.99072265625,
+        1745.0318603515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        978,
+        4032,
+        1781
+      ],
+      "score": 0.9966087341308594
+    },
+    {
+      "source_path": "/workspace/rotate_data/10_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/10_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        80.37800598144531,
+        381.1488342285156,
+        4032.0,
+        1513.59375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        324,
+        4032,
+        1570
+      ],
+      "score": 0.9331461787223816
+    },
+    {
+      "source_path": "/workspace/rotate_data/10_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/10_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        38.88442611694336,
+        1089.9443359375,
+        4003.13623046875,
+        1892.8651123046875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1049,
+        4032,
+        1933
+      ],
+      "score": 0.9980791807174683
+    },
+    {
+      "source_path": "/workspace/rotate_data/11_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/11_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        194.41671752929688,
+        1134.3924560546875,
+        4009.33056640625,
+        2028.5223388671875
+      ],
+      "expanded_box_xyxy": [
+        3,
+        1089,
+        4032,
+        2073
+      ],
+      "score": 0.9968953132629395
+    },
+    {
+      "source_path": "/workspace/rotate_data/11_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/11_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1035.6085205078125,
+        4001.33642578125,
+        1892.986572265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        992,
+        4032,
+        1935
+      ],
+      "score": 0.9983540773391724
+    },
+    {
+      "source_path": "/workspace/rotate_data/12_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/12_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        102.83521270751953,
+        757.9080200195312,
+        3966.175537109375,
+        1584.89599609375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        716,
+        4032,
+        1626
+      ],
+      "score": 0.9950007796287537
+    },
+    {
+      "source_path": "/workspace/rotate_data/12_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/12_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1101.8858642578125,
+        3946.18115234375,
+        1923.4420166015625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1060,
+        4032,
+        1964
+      ],
+      "score": 0.9984785914421082
+    },
+    {
+      "source_path": "/workspace/rotate_data/13_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/13_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        240.5636749267578,
+        1089.828369140625,
+        3999.612548828125,
+        1887.2371826171875
+      ],
+      "expanded_box_xyxy": [
+        52,
+        1049,
+        4032,
+        1927
+      ],
+      "score": 0.9909765720367432
+    },
+    {
+      "source_path": "/workspace/rotate_data/13_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/13_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        981.9486694335938,
+        3980.73583984375,
+        1722.527099609375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        944,
+        4032,
+        1759
+      ],
+      "score": 0.999188244342804
+    },
+    {
+      "source_path": "/workspace/rotate_data/14_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/14_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        21.44963264465332,
+        920.8303833007812,
+        3979.56396484375,
+        2199.160400390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        856,
+        4032,
+        2263
+      ],
+      "score": 0.9971696734428406
+    },
+    {
+      "source_path": "/workspace/rotate_data/14_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/14_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        5.365351676940918,
+        1036.263671875,
+        3972.306640625,
+        1883.4857177734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        993,
+        4032,
+        1925
+      ],
+      "score": 0.9985421895980835
+    },
+    {
+      "source_path": "/workspace/rotate_data/15_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/15_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        19.517126083374023,
+        474.6544494628906,
+        3974.71923828125,
+        1586.67138671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        419,
+        4032,
+        1642
+      ],
+      "score": 0.9845015406608582
+    },
+    {
+      "source_path": "/workspace/rotate_data/15_good_scr_3595_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/15_good_scr_3595_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        40.10843276977539,
+        990.9093017578125,
+        3913.124267578125,
+        1752.515869140625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        952,
+        4032,
+        1790
+      ],
+      "score": 0.9961292743682861
+    },
+    {
+      "source_path": "/workspace/rotate_data/16_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/16_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        22.414615631103516,
+        786.0675048828125,
+        3998.811767578125,
+        1946.6722412109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        728,
+        4032,
+        2004
+      ],
+      "score": 0.9948920011520386
+    },
+    {
+      "source_path": "/workspace/rotate_data/17_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/17_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        55.62803649902344,
+        1028.14404296875,
+        4030.7421875,
+        1936.0184326171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        982,
+        4032,
+        1981
+      ],
+      "score": 0.9982640147209167
+    },
+    {
+      "source_path": "/workspace/rotate_data/18_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/18_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        16.805479049682617,
+        955.203125,
+        4032.0,
+        2089.799072265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        898,
+        4032,
+        2146
+      ],
+      "score": 0.9863243699073792
+    },
+    {
+      "source_path": "/workspace/rotate_data/19_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/19_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        82.91419982910156,
+        832.55078125,
+        4023.966552734375,
+        1891.547607421875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        779,
+        4032,
+        1944
+      ],
+      "score": 0.9866024255752563
+    },
+    {
+      "source_path": "/workspace/rotate_data/20_good_air_3502(p)_fn_260928.jpg",
+      "roi_path": "/workspace/weld_rois_v2/20_good_air_3502(p)_fn_260928.jpg",
+      "predicted_box_xyxy": [
+        24.013994216918945,
+        897.0777587890625,
+        3991.059814453125,
+        2058.93017578125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        838,
+        4032,
+        2117
+      ],
+      "score": 0.9959094524383545
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0073.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0073.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1213.3509521484375,
+        3995.699951171875,
+        1713.177734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1188,
+        4032,
+        1738
+      ],
+      "score": 0.9996664524078369
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0104.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0104.jpg",
+      "predicted_box_xyxy": [
+        82.12258911132812,
+        1209.9573974609375,
+        3956.85498046875,
+        1925.6278076171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1174,
+        4032,
+        1961
+      ],
+      "score": 0.9993289709091187
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0114.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0114.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1271.5302734375,
+        3938.12646484375,
+        1805.8582763671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1244,
+        4032,
+        1832
+      ],
+      "score": 0.9997914433479309
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0133.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0133.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        796.108154296875,
+        3968.009033203125,
+        1740.1129150390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        748,
+        4032,
+        1787
+      ],
+      "score": 0.9913062453269958
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0147.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0147.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1007.7129516601562,
+        3962.910888671875,
+        1853.65478515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        965,
+        4032,
+        1895
+      ],
+      "score": 0.9993265867233276
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0151.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0151.jpg",
+      "predicted_box_xyxy": [
+        26.082704544067383,
+        992.1544799804688,
+        3912.49951171875,
+        1653.6826171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        959,
+        4032,
+        1686
+      ],
+      "score": 0.9998290538787842
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0158.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0158.jpg",
+      "predicted_box_xyxy": [
+        57.63349151611328,
+        1129.52783203125,
+        3952.607177734375,
+        1834.25927734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1094,
+        4032,
+        1869
+      ],
+      "score": 0.9995638728141785
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0167.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0167.jpg",
+      "predicted_box_xyxy": [
+        545.8184814453125,
+        1224.533447265625,
+        4005.711181640625,
+        1976.9697265625
+      ],
+      "expanded_box_xyxy": [
+        372,
+        1186,
+        4032,
+        2014
+      ],
+      "score": 0.9982967972755432
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0174.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0174.jpg",
+      "predicted_box_xyxy": [
+        48.41905975341797,
+        937.34228515625,
+        3990.45751953125,
+        2152.738525390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        876,
+        4032,
+        2213
+      ],
+      "score": 0.999101996421814
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0184.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0184.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        910.9265747070312,
+        4000.43212890625,
+        1895.6551513671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        861,
+        4032,
+        1944
+      ],
+      "score": 0.9984789490699768
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0197.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0197.jpg",
+      "predicted_box_xyxy": [
+        5.792206287384033,
+        961.3604736328125,
+        4009.16455078125,
+        1884.69677734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        915,
+        4032,
+        1930
+      ],
+      "score": 0.9990672469139099
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0208.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0208.jpg",
+      "predicted_box_xyxy": [
+        14.171859741210938,
+        1003.2708129882812,
+        3955.915283203125,
+        1996.798828125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        953,
+        4032,
+        2046
+      ],
+      "score": 0.998875081539154
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0214.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0214.jpg",
+      "predicted_box_xyxy": [
+        17.27181053161621,
+        1038.8408203125,
+        4025.6435546875,
+        1801.1162109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1000,
+        4032,
+        1839
+      ],
+      "score": 0.9990735054016113
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0222.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0222.jpg",
+      "predicted_box_xyxy": [
+        45.395294189453125,
+        795.0913696289062,
+        3994.520751953125,
+        1925.210205078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        738,
+        4032,
+        1981
+      ],
+      "score": 0.9990053772926331
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0234.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0234.jpg",
+      "predicted_box_xyxy": [
+        16.519216537475586,
+        1217.7705078125,
+        3976.88037109375,
+        2021.5076904296875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1177,
+        4032,
+        2061
+      ],
+      "score": 0.9987610578536987
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0235.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0235.jpg",
+      "predicted_box_xyxy": [
+        21.785991668701172,
+        939.0126342773438,
+        3974.067138671875,
+        1790.8143310546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        896,
+        4032,
+        1833
+      ],
+      "score": 0.9990859031677246
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0236.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0236.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        825.2988891601562,
+        3984.021240234375,
+        1888.1329345703125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        772,
+        4032,
+        1941
+      ],
+      "score": 0.998965859413147
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0237.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0237.jpg",
+      "predicted_box_xyxy": [
+        156.7927703857422,
+        1291.089599609375,
+        3997.769775390625,
+        1940.828369140625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1258,
+        4032,
+        1973
+      ],
+      "score": 0.9989595413208008
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0238.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0238.jpg",
+      "predicted_box_xyxy": [
+        110.23268127441406,
+        1108.4510498046875,
+        4027.1259765625,
+        1995.934326171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1064,
+        4032,
+        2040
+      ],
+      "score": 0.9983223080635071
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0239.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0239.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1065.8349609375,
+        4011.924560546875,
+        2321.021484375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1003,
+        4032,
+        2383
+      ],
+      "score": 0.999473512172699
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0240.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0240.jpg",
+      "predicted_box_xyxy": [
+        58.260040283203125,
+        1116.6097412109375,
+        3988.185546875,
+        1978.4822998046875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1073,
+        4032,
+        2021
+      ],
+      "score": 0.9990272521972656
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0241.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0241.jpg",
+      "predicted_box_xyxy": [
+        4.331111431121826,
+        1190.8109130859375,
+        3998.501708984375,
+        1963.6956787109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1152,
+        4032,
+        2002
+      ],
+      "score": 0.9993122816085815
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0242.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0242.jpg",
+      "predicted_box_xyxy": [
+        12.195030212402344,
+        1311.1072998046875,
+        3962.1064453125,
+        1980.074462890625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1277,
+        4032,
+        2013
+      ],
+      "score": 0.999606192111969
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0243.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0243.jpg",
+      "predicted_box_xyxy": [
+        5.180434703826904,
+        1028.757568359375,
+        3977.130615234375,
+        1903.012939453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        985,
+        4032,
+        1946
+      ],
+      "score": 0.9990639090538025
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0244.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0244.jpg",
+      "predicted_box_xyxy": [
+        13.287446022033691,
+        874.1610717773438,
+        3982.373046875,
+        1565.4083251953125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        839,
+        4032,
+        1599
+      ],
+      "score": 0.9996188879013062
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0257.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0257.jpg",
+      "predicted_box_xyxy": [
+        378.0852966308594,
+        904.9638061523438,
+        4006.517822265625,
+        1630.9720458984375
+      ],
+      "expanded_box_xyxy": [
+        196,
+        868,
+        4032,
+        1667
+      ],
+      "score": 0.9990431666374207
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0259.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0259.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        834.2749633789062,
+        4014.935791015625,
+        1858.291748046875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        783,
+        4032,
+        1909
+      ],
+      "score": 0.989560604095459
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0260.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0260.jpg",
+      "predicted_box_xyxy": [
+        30.197040557861328,
+        978.182373046875,
+        3978.1953125,
+        1895.71875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        932,
+        4032,
+        1941
+      ],
+      "score": 0.9991325736045837
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0262.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0262.jpg",
+      "predicted_box_xyxy": [
+        5.266313552856445,
+        845.017578125,
+        3950.37255859375,
+        1632.1884765625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        805,
+        4032,
+        1671
+      ],
+      "score": 0.9994367957115173
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0263.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0263.jpg",
+      "predicted_box_xyxy": [
+        33.75224304199219,
+        886.0647583007812,
+        3931.58349609375,
+        1726.024169921875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        844,
+        4032,
+        1768
+      ],
+      "score": 0.9986231327056885
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0264.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0264.jpg",
+      "predicted_box_xyxy": [
+        99.43965148925781,
+        543.2345581054688,
+        3934.811767578125,
+        1687.8369140625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        486,
+        4032,
+        1745
+      ],
+      "score": 0.9985478520393372
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0265.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0265.jpg",
+      "predicted_box_xyxy": [
+        285.4540710449219,
+        701.0746459960938,
+        3979.235595703125,
+        1572.779052734375
+      ],
+      "expanded_box_xyxy": [
+        100,
+        657,
+        4032,
+        1616
+      ],
+      "score": 0.9985455274581909
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0266.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0266.jpg",
+      "predicted_box_xyxy": [
+        7.122405529022217,
+        824.5913696289062,
+        3982.022216796875,
+        1639.3585205078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        783,
+        4032,
+        1680
+      ],
+      "score": 0.9994505047798157
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0267.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0267.jpg",
+      "predicted_box_xyxy": [
+        34.99679183959961,
+        884.7213134765625,
+        3974.678955078125,
+        1887.19921875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        834,
+        4032,
+        1937
+      ],
+      "score": 0.9986779093742371
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0268.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0268.jpg",
+      "predicted_box_xyxy": [
+        6.0256028175354,
+        1103.4486083984375,
+        3925.71240234375,
+        1992.1651611328125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1059,
+        4032,
+        2036
+      ],
+      "score": 0.9991180300712585
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0269.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0269.jpg",
+      "predicted_box_xyxy": [
+        100.6158676147461,
+        1078.0389404296875,
+        3949.602783203125,
+        1875.771484375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1038,
+        4032,
+        1915
+      ],
+      "score": 0.9992730021476746
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0270.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0270.jpg",
+      "predicted_box_xyxy": [
+        11.127084732055664,
+        1330.7425537109375,
+        3954.255615234375,
+        2118.44677734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1291,
+        4032,
+        2157
+      ],
+      "score": 0.9994906187057495
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0271.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0271.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1263.884033203125,
+        3971.845947265625,
+        1913.7247314453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1231,
+        4032,
+        1946
+      ],
+      "score": 0.9995511174201965
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0272.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0272.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1234.033935546875,
+        3959.6796875,
+        1972.46533203125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1197,
+        4032,
+        2009
+      ],
+      "score": 0.9996912479400635
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0273.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0273.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1146.769775390625,
+        4003.379150390625,
+        1863.205078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1110,
+        4032,
+        1899
+      ],
+      "score": 0.9994275569915771
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0274.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0274.jpg",
+      "predicted_box_xyxy": [
+        5.849689960479736,
+        939.3948364257812,
+        3933.278076171875,
+        1743.802490234375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        899,
+        4032,
+        1784
+      ],
+      "score": 0.9985315799713135
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0275.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0275.jpg",
+      "predicted_box_xyxy": [
+        3.4423112869262695,
+        1044.0528564453125,
+        3927.454833984375,
+        1665.067138671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1013,
+        4032,
+        1696
+      ],
+      "score": 0.9998325109481812
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0282.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0282.jpg",
+      "predicted_box_xyxy": [
+        76.90821838378906,
+        1094.1309814453125,
+        3972.4248046875,
+        2138.872314453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1041,
+        4032,
+        2191
+      ],
+      "score": 0.9947011470794678
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0283.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0283.jpg",
+      "predicted_box_xyxy": [
+        117.72953796386719,
+        1014.2879028320312,
+        4016.821533203125,
+        2081.684814453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        960,
+        4032,
+        2135
+      ],
+      "score": 0.9959820508956909
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0285.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0285.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1036.296142578125,
+        3977.71533203125,
+        2126.71875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        981,
+        4032,
+        2181
+      ],
+      "score": 0.9986999034881592
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0286.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0286.jpg",
+      "predicted_box_xyxy": [
+        133.34979248046875,
+        631.5723876953125,
+        4032.0,
+        1768.0972900390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        574,
+        4032,
+        1824
+      ],
+      "score": 0.9959712624549866
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0287.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0287.jpg",
+      "predicted_box_xyxy": [
+        32.79302978515625,
+        1013.7672119140625,
+        3979.46044921875,
+        1911.78369140625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        968,
+        4032,
+        1956
+      ],
+      "score": 0.9990824460983276
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0288.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0288.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1134.06591796875,
+        4032.0,
+        2013.7152099609375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1090,
+        4032,
+        2057
+      ],
+      "score": 0.9989458918571472
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0289.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0289.jpg",
+      "predicted_box_xyxy": [
+        17.515132904052734,
+        974.3283081054688,
+        4000.025634765625,
+        1817.239013671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        932,
+        4032,
+        1859
+      ],
+      "score": 0.9981968998908997
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0290.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0290.jpg",
+      "predicted_box_xyxy": [
+        8.637290000915527,
+        941.9125366210938,
+        3998.62353515625,
+        1813.6690673828125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        898,
+        4032,
+        1857
+      ],
+      "score": 0.998559296131134
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0291.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0291.jpg",
+      "predicted_box_xyxy": [
+        51.638362884521484,
+        1234.0841064453125,
+        4015.521240234375,
+        2038.5001220703125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1193,
+        4032,
+        2078
+      ],
+      "score": 0.9985552430152893
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0292.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0292.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1081.905029296875,
+        4032.0,
+        1915.6434326171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1040,
+        4032,
+        1957
+      ],
+      "score": 0.9986823201179504
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0294.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0294.jpg",
+      "predicted_box_xyxy": [
+        3.9204165935516357,
+        1247.7177734375,
+        4032.0,
+        2133.2431640625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1203,
+        4032,
+        2177
+      ],
+      "score": 0.9965569972991943
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0298.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0298.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1355.1329345703125,
+        3977.091064453125,
+        2160.97265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1314,
+        4032,
+        2201
+      ],
+      "score": 0.9986463189125061
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0299.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0299.jpg",
+      "predicted_box_xyxy": [
+        33.713226318359375,
+        848.6325073242188,
+        3951.35791015625,
+        1770.3876953125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        802,
+        4032,
+        1816
+      ],
+      "score": 0.9923760294914246
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0301.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0301.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1029.8843994140625,
+        3997.344482421875,
+        1828.7633056640625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        989,
+        4032,
+        1868
+      ],
+      "score": 0.9968904852867126
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0302.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0302.jpg",
+      "predicted_box_xyxy": [
+        25.614295959472656,
+        1041.0062255859375,
+        4004.68115234375,
+        1899.19287109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        998,
+        4032,
+        1942
+      ],
+      "score": 0.9954319000244141
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0303.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0303.jpg",
+      "predicted_box_xyxy": [
+        81.15853118896484,
+        1195.5494384765625,
+        3963.57666015625,
+        2103.48779296875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1150,
+        4032,
+        2148
+      ],
+      "score": 0.9922943115234375
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0304.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0304.jpg",
+      "predicted_box_xyxy": [
+        621.518310546875,
+        1091.6480712890625,
+        4007.639892578125,
+        2147.345703125
+      ],
+      "expanded_box_xyxy": [
+        452,
+        1038,
+        4032,
+        2200
+      ],
+      "score": 0.9942666888237
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0307.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0307.jpg",
+      "predicted_box_xyxy": [
+        3.726034641265869,
+        912.5585327148438,
+        3959.39306640625,
+        1906.2198486328125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        862,
+        4032,
+        1955
+      ],
+      "score": 0.9980270266532898
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0308.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0308.jpg",
+      "predicted_box_xyxy": [
+        56.838768005371094,
+        590.18603515625,
+        3911.875244140625,
+        1500.2713623046875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        544,
+        4032,
+        1545
+      ],
+      "score": 0.9860134720802307
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0309.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0309.jpg",
+      "predicted_box_xyxy": [
+        48.66423034667969,
+        620.5750122070312,
+        3999.409912109375,
+        1518.3109130859375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        575,
+        4032,
+        1563
+      ],
+      "score": 0.9820797443389893
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0310.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0310.jpg",
+      "predicted_box_xyxy": [
+        30.035673141479492,
+        1192.7237548828125,
+        4004.34423828125,
+        2043.6614990234375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1150,
+        4032,
+        2086
+      ],
+      "score": 0.9986687898635864
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0311.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0311.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1474.1617431640625,
+        3920.905029296875,
+        2255.2578125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1435,
+        4032,
+        2294
+      ],
+      "score": 0.9991803765296936
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0312.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0312.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1305.55322265625,
+        3992.34228515625,
+        2116.65283203125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1264,
+        4032,
+        2157
+      ],
+      "score": 0.9991899132728577
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0313.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0313.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1144.541015625,
+        4009.726806640625,
+        2038.4168701171875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1099,
+        4032,
+        2083
+      ],
+      "score": 0.9994701743125916
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0314.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0314.jpg",
+      "predicted_box_xyxy": [
+        6.8213677406311035,
+        847.0723876953125,
+        3995.902099609375,
+        1760.721923828125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        801,
+        4032,
+        1806
+      ],
+      "score": 0.9980474710464478
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0315.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0315.jpg",
+      "predicted_box_xyxy": [
+        24.388675689697266,
+        869.8794555664062,
+        3891.9296875,
+        1858.3094482421875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        820,
+        4032,
+        1907
+      ],
+      "score": 0.9956574440002441
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0316.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0316.jpg",
+      "predicted_box_xyxy": [
+        30.237903594970703,
+        1106.9407958984375,
+        4032.0,
+        2149.3486328125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1054,
+        4032,
+        2201
+      ],
+      "score": 0.9891875386238098
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0317.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0317.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        939.5547485351562,
+        4032.0,
+        2035.7703857421875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        884,
+        4032,
+        2090
+      ],
+      "score": 0.9903659820556641
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0318.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0318.jpg",
+      "predicted_box_xyxy": [
+        16.742685317993164,
+        919.2213745117188,
+        3988.411376953125,
+        1918.2197265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        869,
+        4032,
+        1968
+      ],
+      "score": 0.9964410662651062
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0319.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0319.jpg",
+      "predicted_box_xyxy": [
+        40.580997467041016,
+        1008.6458129882812,
+        3948.018310546875,
+        1971.3525390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        960,
+        4032,
+        2019
+      ],
+      "score": 0.9924248456954956
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0320.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0320.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        956.4927368164062,
+        3940.167724609375,
+        1986.357421875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        904,
+        4032,
+        2037
+      ],
+      "score": 0.9972319006919861
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0321.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0321.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        596.5070190429688,
+        4022.5634765625,
+        1547.193603515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        548,
+        4032,
+        1594
+      ],
+      "score": 0.9895044565200806
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0322.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0322.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1109.886474609375,
+        3960.518798828125,
+        2129.64892578125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1058,
+        4032,
+        2180
+      ],
+      "score": 0.9921033978462219
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0323.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0323.jpg",
+      "predicted_box_xyxy": [
+        33.28406524658203,
+        1024.92626953125,
+        4016.942138671875,
+        2002.5445556640625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        976,
+        4032,
+        2051
+      ],
+      "score": 0.9984398484230042
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0324.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0324.jpg",
+      "predicted_box_xyxy": [
+        37.65234375,
+        924.3577880859375,
+        3982.947021484375,
+        1868.549560546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        877,
+        4032,
+        1915
+      ],
+      "score": 0.9978341460227966
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0329.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0329.jpg",
+      "predicted_box_xyxy": [
+        47.339111328125,
+        919.4489135742188,
+        4032.0,
+        1949.694580078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        867,
+        4032,
+        2001
+      ],
+      "score": 0.9969022870063782
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0330.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0330.jpg",
+      "predicted_box_xyxy": [
+        31.228395462036133,
+        1042.0257568359375,
+        3881.15087890625,
+        2004.454833984375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        993,
+        4032,
+        2052
+      ],
+      "score": 0.996317982673645
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0331.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0331.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1138.8865966796875,
+        3990.860595703125,
+        1988.4853515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1096,
+        4032,
+        2030
+      ],
+      "score": 0.9984452128410339
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0332.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0332.jpg",
+      "predicted_box_xyxy": [
+        7.1999735832214355,
+        1150.3270263671875,
+        4024.580078125,
+        2078.85302734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1103,
+        4032,
+        2125
+      ],
+      "score": 0.9946050047874451
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0333.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0333.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        957.4404296875,
+        3947.98779296875,
+        1987.101318359375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        905,
+        4032,
+        2038
+      ],
+      "score": 0.9914537668228149
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0334.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0334.jpg",
+      "predicted_box_xyxy": [
+        18.40231704711914,
+        1087.6126708984375,
+        4013.674560546875,
+        2023.07958984375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1040,
+        4032,
+        2069
+      ],
+      "score": 0.9965873956680298
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0335.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0335.jpg",
+      "predicted_box_xyxy": [
+        28.879077911376953,
+        1089.6761474609375,
+        4017.7255859375,
+        2047.3316650390625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1041,
+        4032,
+        2095
+      ],
+      "score": 0.996616780757904
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0336.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0336.jpg",
+      "predicted_box_xyxy": [
+        13.795101165771484,
+        1024.80859375,
+        4032.0,
+        1870.010498046875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        982,
+        4032,
+        1912
+      ],
+      "score": 0.9971476197242737
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0337.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0337.jpg",
+      "predicted_box_xyxy": [
+        21.215312957763672,
+        1083.269287109375,
+        3996.3974609375,
+        2147.41455078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1030,
+        4032,
+        2200
+      ],
+      "score": 0.9974392652511597
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0339.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0339.jpg",
+      "predicted_box_xyxy": [
+        102.82355499267578,
+        889.2371826171875,
+        4018.346923828125,
+        1929.8067626953125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        837,
+        4032,
+        1981
+      ],
+      "score": 0.9963662624359131
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0342.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0342.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        930.6349487304688,
+        4032.0,
+        1859.0059814453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        884,
+        4032,
+        1905
+      ],
+      "score": 0.9993466734886169
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0343.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0343.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        955.056396484375,
+        3999.626708984375,
+        1864.5279541015625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        909,
+        4032,
+        1910
+      ],
+      "score": 0.9987983703613281
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0344.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0344.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1031.068359375,
+        3991.95166015625,
+        2060.006103515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        979,
+        4032,
+        2111
+      ],
+      "score": 0.9923787117004395
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0345.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0345.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1021.4614868164062,
+        4032.0,
+        2286.237060546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        958,
+        4032,
+        2349
+      ],
+      "score": 0.993906557559967
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0346.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0346.jpg",
+      "predicted_box_xyxy": [
+        106.2704849243164,
+        1093.805419921875,
+        3990.95947265625,
+        2006.4296875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1048,
+        4032,
+        2052
+      ],
+      "score": 0.9980736970901489
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0347.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0347.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1100.69287109375,
+        4032.0,
+        2090.24560546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1051,
+        4032,
+        2139
+      ],
+      "score": 0.9957728981971741
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0348.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0348.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        951.8490600585938,
+        4005.17333984375,
+        2154.803466796875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        891,
+        4032,
+        2214
+      ],
+      "score": 0.9970634579658508
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0349.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0349.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1355.936767578125,
+        3970.947509765625,
+        2268.704833984375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1310,
+        4032,
+        2314
+      ],
+      "score": 0.9837034344673157
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0352.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0352.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1011.3955688476562,
+        4028.508544921875,
+        1853.628173828125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        969,
+        4032,
+        1895
+      ],
+      "score": 0.9990082383155823
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0353.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0353.jpg",
+      "predicted_box_xyxy": [
+        77.30644989013672,
+        1077.5853271484375,
+        4032.0,
+        2214.782958984375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1020,
+        4032,
+        2271
+      ],
+      "score": 0.9852141737937927
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0354.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0354.jpg",
+      "predicted_box_xyxy": [
+        5.24622917175293,
+        1038.517822265625,
+        3943.364501953125,
+        2038.318359375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        988,
+        4032,
+        2088
+      ],
+      "score": 0.9987727999687195
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0355.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0355.jpg",
+      "predicted_box_xyxy": [
+        48.33317947387695,
+        992.084228515625,
+        3999.406494140625,
+        2054.111572265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        938,
+        4032,
+        2107
+      ],
+      "score": 0.9970358610153198
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0356.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0356.jpg",
+      "predicted_box_xyxy": [
+        119.60733032226562,
+        857.3150024414062,
+        3968.56396484375,
+        1931.456787109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        803,
+        4032,
+        1985
+      ],
+      "score": 0.9973620772361755
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0358.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0358.jpg",
+      "predicted_box_xyxy": [
+        17.0208683013916,
+        806.673828125,
+        3997.336181640625,
+        1783.012939453125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        757,
+        4032,
+        1831
+      ],
+      "score": 0.9988968372344971
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0359.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0359.jpg",
+      "predicted_box_xyxy": [
+        70.81059265136719,
+        1129.5770263671875,
+        3997.53759765625,
+        1992.77197265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1086,
+        4032,
+        2035
+      ],
+      "score": 0.9987284541130066
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0360.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0360.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1130.145263671875,
+        3952.48681640625,
+        2026.76220703125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1085,
+        4032,
+        2071
+      ],
+      "score": 0.9980781078338623
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0361.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0361.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        953.1065673828125,
+        4003.22119140625,
+        2221.9716796875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        889,
+        4032,
+        2285
+      ],
+      "score": 0.9848200082778931
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0362.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0362.jpg",
+      "predicted_box_xyxy": [
+        21.135435104370117,
+        885.536865234375,
+        3952.125244140625,
+        2072.971435546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        826,
+        4032,
+        2132
+      ],
+      "score": 0.9952906370162964
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0364.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0364.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1010.4312133789062,
+        4032.0,
+        1943.8128662109375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        963,
+        4032,
+        1990
+      ],
+      "score": 0.9967182278633118
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0365.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0365.jpg",
+      "predicted_box_xyxy": [
+        13.40102767944336,
+        1134.873046875,
+        4032.0,
+        2247.2197265625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1079,
+        4032,
+        2302
+      ],
+      "score": 0.9982898831367493
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0366.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0366.jpg",
+      "predicted_box_xyxy": [
+        39.19585418701172,
+        1130.47607421875,
+        3918.97265625,
+        1975.9537353515625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1088,
+        4032,
+        2018
+      ],
+      "score": 0.9967214465141296
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0367.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0367.jpg",
+      "predicted_box_xyxy": [
+        6.948108196258545,
+        1147.4146728515625,
+        3962.64111328125,
+        2125.190185546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1098,
+        4032,
+        2174
+      ],
+      "score": 0.9969887137413025
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0368.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0368.jpg",
+      "predicted_box_xyxy": [
+        32.6496696472168,
+        710.7696533203125,
+        3995.87353515625,
+        1941.9552001953125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        649,
+        4032,
+        2003
+      ],
+      "score": 0.9969798922538757
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0369.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0369.jpg",
+      "predicted_box_xyxy": [
+        20.210853576660156,
+        812.7892456054688,
+        4032.0,
+        1863.232177734375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        760,
+        4032,
+        1915
+      ],
+      "score": 0.997443675994873
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0370.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0370.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        771.806884765625,
+        4020.562255859375,
+        1989.0955810546875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        710,
+        4032,
+        2049
+      ],
+      "score": 0.9961100220680237
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0371.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0371.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1108.05810546875,
+        4004.5126953125,
+        2053.338134765625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1060,
+        4032,
+        2100
+      ],
+      "score": 0.9978134632110596
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0372.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0372.jpg",
+      "predicted_box_xyxy": [
+        17.63425636291504,
+        931.3394165039062,
+        4012.059326171875,
+        1962.471923828125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        879,
+        4032,
+        2014
+      ],
+      "score": 0.9938892126083374
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0373.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0373.jpg",
+      "predicted_box_xyxy": [
+        2.283177375793457,
+        939.9246215820312,
+        4009.6298828125,
+        2016.0770263671875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        886,
+        4032,
+        2069
+      ],
+      "score": 0.9822282195091248
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0377.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0377.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        1087.892333984375,
+        4015.335693359375,
+        1934.6793212890625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        1045,
+        4032,
+        1977
+      ],
+      "score": 0.9988526105880737
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0378.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0378.jpg",
+      "predicted_box_xyxy": [
+        229.84127807617188,
+        1027.101318359375,
+        4016.058349609375,
+        1799.55859375
+      ],
+      "expanded_box_xyxy": [
+        40,
+        988,
+        4032,
+        1838
+      ],
+      "score": 0.9985933899879456
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0379.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0379.jpg",
+      "predicted_box_xyxy": [
+        65.55905151367188,
+        900.3703002929688,
+        3980.010009765625,
+        1844.2806396484375
+      ],
+      "expanded_box_xyxy": [
+        0,
+        853,
+        4032,
+        1891
+      ],
+      "score": 0.858351469039917
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0380.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0380.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        726.1683959960938,
+        3962.655517578125,
+        1732.8741455078125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        675,
+        4032,
+        1783
+      ],
+      "score": 0.9707099199295044
+    },
+    {
+      "source_path": "/workspace/rotate_data/IMG_0381.jpg",
+      "roi_path": "/workspace/weld_rois_v2/IMG_0381.jpg",
+      "predicted_box_xyxy": [
+        21.367908477783203,
+        944.185546875,
+        4032.0,
+        1910.5233154296875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        895,
+        4032,
+        1958
+      ],
+      "score": 0.9979000091552734
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_01.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_01.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        346.0062255859375,
+        1998.98486328125,
+        829.0991821289062
+      ],
+      "expanded_box_xyxy": [
+        0,
+        321,
+        2016,
+        853
+      ],
+      "score": 0.9962072372436523
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_02.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_02.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        374.4007568359375,
+        1968.232421875,
+        801.4424438476562
+      ],
+      "expanded_box_xyxy": [
+        0,
+        353,
+        2016,
+        822
+      ],
+      "score": 0.9877395033836365
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_03.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_03.jpg",
+      "predicted_box_xyxy": [
+        29.453392028808594,
+        540.9420166015625,
+        1962.363037109375,
+        904.8248901367188
+      ],
+      "expanded_box_xyxy": [
+        0,
+        522,
+        2016,
+        923
+      ],
+      "score": 0.8873192667961121
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_04.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_04.jpg",
+      "predicted_box_xyxy": [
+        16.00798225402832,
+        460.63800048828125,
+        1981.422607421875,
+        849.5477294921875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        441,
+        2016,
+        868
+      ],
+      "score": 0.9955825209617615
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_05.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_05.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        566.091796875,
+        1968.498046875,
+        977.5691528320312
+      ],
+      "expanded_box_xyxy": [
+        0,
+        545,
+        2016,
+        998
+      ],
+      "score": 0.9554015398025513
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_06.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_06.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        546.0647583007812,
+        1995.552490234375,
+        1007.2945556640625
+      ],
+      "expanded_box_xyxy": [
+        0,
+        523,
+        2016,
+        1030
+      ],
+      "score": 0.9967018961906433
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_08.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_08.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        440.0465393066406,
+        1943.818359375,
+        915.1807861328125
+      ],
+      "expanded_box_xyxy": [
+        0,
+        416,
+        2016,
+        938
+      ],
+      "score": 0.8832274079322815
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_09.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_09.jpg",
+      "predicted_box_xyxy": [
+        10.769256591796875,
+        462.339599609375,
+        1971.2838134765625,
+        990.9546508789062
+      ],
+      "expanded_box_xyxy": [
+        0,
+        435,
+        2016,
+        1017
+      ],
+      "score": 0.9932054281234741
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_10.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_10.jpg",
+      "predicted_box_xyxy": [
+        18.448143005371094,
+        623.4921264648438,
+        1994.9813232421875,
+        1067.3094482421875
+      ],
+      "expanded_box_xyxy": [
+        0,
+        601,
+        2016,
+        1089
+      ],
+      "score": 0.9978396892547607
+    },
+    {
+      "source_path": "/workspace/rotate_data/KakaoTalk_20260918_132949673_11.jpg",
+      "roi_path": "/workspace/weld_rois_v2/KakaoTalk_20260918_132949673_11.jpg",
+      "predicted_box_xyxy": [
+        0.0,
+        557.4334716796875,
+        1987.108154296875,
+        985.0775756835938
+      ],
+      "expanded_box_xyxy": [
+        0,
+        536,
+        2016,
+        1006
+      ],
+      "score": 0.9815141558647156
+    }
+  ],
+  "failed_images": [
+    "/workspace/rotate_data/KakaoTalk_20260918_132949673.jpg",
+    "/workspace/rotate_data/KakaoTalk_20260918_132952347.jpg",
+    "/workspace/rotate_data/KakaoTalk_20260918_132952347_01.jpg",
+    "/workspace/rotate_data/KakaoTalk_20260918_132952347_02.jpg"
+  ]
+}

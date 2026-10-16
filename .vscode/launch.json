@@ -1,0 +1,44 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Weld Eval Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/eval_weld_checkpoint.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "python": "/ssdg/spl_yejin/miniforge3/envs/adp/bin/python",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "2",
+                "PYTHONUNBUFFERED": "1"
+            },
+            "args": [
+                "--checkpoint",
+                "./checkpoints/dinov2-base-weld-ddp/weld_epoch_02_before_eval.pth",
+
+                "--test_dataset_dir",
+                "/ssdg/spl_yejin/aihub_weld/weld_eval_root",
+
+                "--test_ref_feature_dir",
+                "./ref_features/dinov2-base/weld_8shot",
+
+                "--backbone",
+                "dinov2-base",
+
+                "--num_ref_shot",
+                "8",
+
+                "--device",
+                "cuda:0",
+
+                "--num_workers",
+                "0",
+
+                "--max_normal_images",
+                "5000"
+            ]
+        }
+    ]
+}

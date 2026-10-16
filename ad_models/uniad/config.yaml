@@ -1,0 +1,56 @@
+version: v1.0.0
+random_seed: 133
+port: 11111
+
+dataset:
+  input_size: [224, 224] # [h,w]
+  batch_size: 8
+  workers: 4 # number of workers of dataloader for each process
+
+criterion:
+  - name: FeatureMSELoss
+    type: FeatureMSELoss
+    kwargs:
+      weight: 1.0
+
+trainer:
+  max_epoch: 1000
+  clip_max_norm: 0.1
+  val_freq_epoch: 10
+  print_freq_step: 100
+  lr_scheduler:
+    type: StepLR
+    kwargs:
+      step_size: 800
+      gamma: 0.1
+  optimizer:
+    type: AdamW
+    kwargs:
+      lr: 0.0001
+      betas: [0.9, 0.999]
+      weight_decay: 0.0001
+
+net:
+    - name: reconstruction
+      prev: neck
+      type: ad_models.uniad.models.reconstructions.UniAD
+      kwargs: 
+        pos_embed_type: learned
+        hidden_dim: 512
+        nhead: 8
+        num_encoder_layers: 4
+        num_decoder_layers: 4
+        dim_feedforward: 2048
+        dropout: 0.1
+        activation: relu
+        normalize_before: False
+        feature_jitter:
+          scale: 20.0
+          prob: 1.0
+        neighbor_mask:
+          neighbor_size: [7,7]
+          mask: [True, True, True] # whether use mask in [enc, dec1, dec2]
+        save_recon:
+          save_dir: result_recon
+        initializer:
+          method: xavier_uniform
